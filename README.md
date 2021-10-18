@@ -11,7 +11,7 @@ Install this software by cloning the git repository then opening code in termina
   In terminal: 
   
   ```git clone https://github.com/etmrmia/Lab-5.git```<br>
-  python lab-5.py
+  ```python lab-5.py```
 
 <h1>How to Contribute</h1>
 
@@ -19,5 +19,5 @@ Install this software by cloning the git repository then opening code in termina
   
   In terminal:
 
-  git clone https://github.com/etmrmia/Lab-5.git<br>
-  nano lab-5.py
+  ```git clone https://github.com/etmrmia/Lab-5.git```<br>
+  ```nano lab-5.py```
