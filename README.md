@@ -17,5 +17,6 @@ Install this software by cloning the git repository then opening code in termina
 <p>To contribute, clone the git repository and edit the code in terminal with nano.
   
   In terminal:
+  
   git clone https://github.com/etmrmia/Lab-5.git
   nano lab-5.py
